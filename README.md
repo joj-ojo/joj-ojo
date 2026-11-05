@@ -10,8 +10,8 @@
 
 ```
   /\_/\    
- ( o.o )   < dados são como gatos:
-  > ^ <      só aparecem quando eles querem,
+     ( o.o )   < dados são como gatos:
+       > ^ <      só aparecem quando eles querem,
              mas dá pra aprender a conviver ;)
 ```
 
