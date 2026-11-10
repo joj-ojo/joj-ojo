@@ -24,7 +24,7 @@
 | ⚔️ **Status** | Em treinamento |
 
 - 🎓 Em formação na área de **Análise de Dados**
-- 💻 Tenho prática em **HTML, CSS, C e SQL**
+- 💻 Tenho prática em **HTML, CSS, C, SQL, Excel e Git/GitHub**
 - 🔄 Praticando **ETL**: extrair, transformar e carregar dados de forma organizada
 - 🧹 Gosto de pegar dados bagunçados e deixar tudo limpinho
 - 🚧 **Estou elaborando meus primeiros projetos de peso** e vou compartilhar tudo por aqui
@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/CSS-LV%20UP!-29adff?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1c2c" alt="CSS" />
   <img src="https://img.shields.io/badge/C-LV%20UP!-ffa300?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1c2c" alt="C" />
   <img src="https://img.shields.io/badge/SQL-LV%20UP!-00e436?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1c2c" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-LV%20UP!-00e436?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=1a1c2c" alt="Excel" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-LV%20UP!-ff77a8?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1c2c" alt="Git e GitHub" />
 </p>
 
 ### 🔒 Em treinamento
@@ -48,9 +50,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-treinando...-ffec27?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1c2c" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-treinando...-83769c?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1c2c" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Excel-treinando...-00e436?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=1a1c2c" alt="Excel" />
   <img src="https://img.shields.io/badge/Power%20BI-treinando...-ffa300?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1a1c2c" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-treinando...-ff77a8?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1c2c" alt="Git e GitHub" />
 </p>
 
 > Habilidades "LV UP!" eu já uso no dia a dia. As "treinando..." são o foco dos meus estudos em dados.
