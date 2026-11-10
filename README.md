@@ -129,8 +129,8 @@ Descrição curta do problema e da solução.
 ## 📬 MULTIPLAYER
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-JOIN%20PARTY-29adff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1c2c" alt="LinkedIn" /></a>
-  <a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-SEND%20MESSAGE-ff77a8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1c2c" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jo-lima/"><img src="https://img.shields.io/badge/LinkedIn-JOIN%20PARTY-29adff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1c2c" alt="LinkedIn" /></a>
+  <a href="mailto:joanalima305@gmail.com"><img src="https://img.shields.io/badge/Email-SEND%20MESSAGE-ff77a8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1c2c" alt="Email" /></a>
 </p>
 
 <p align="center">
